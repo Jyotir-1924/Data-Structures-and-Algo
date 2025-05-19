@@ -6,7 +6,7 @@ Welcome to the **DSA and HackerRank** repository — a curated collection of **D
 📁 Project Structure
 --------------------
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   bashCopyEdit.vscode/                 → VS Code settings and configuration  DSA and Hackerrank/  │  ├── Arrays/Basic/  │   └── largestElement.cpp      # Find the largest element in an array  │  ├── Hackerrank/  │   ├── formatter.cpp           # Code formatting utility  │   ├── auutomateTest.py        # Python script to automate test case execution  │   └── (more problems soon)   `
+`   bashCopyEdit.vscode/                 → VS Code settings and configuration  DSA and Hackerrank/  │  ├── Arrays/Basic/  │   └── largestElement.cpp      # Find the largest element in an array  │  ├── Hackerrank/  │   ├── formatter.cpp           # Code formatting utility  │   ├── auutomateTest.py        # Python script to automate test case execution  │   └── (more problems soon)   `
 
 🔥 Features
 -----------
@@ -38,11 +38,11 @@ Make sure you have:
 
 ### ▶️ Compile & Run a C++ Program
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   bashCopyEditg++ Arrays/Basic/largestElement.cpp -o largest && ./largest   `
+`   bashCopyEditg++ Arrays/Basic/largestElement.cpp -o largest && ./largest   `
 
 ### 🧪 Run Python Automation
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   bashCopyEditpython3 Hackerrank/auutomateTest.py   `
+`   bashCopyEditpython3 Hackerrank/auutomateTest.py   `
 
 📌 Topics Covered
 -----------------
@@ -63,12 +63,12 @@ Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQL
 🧠 Sample: largestElement.cpp
 -----------------------------
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   cppCopyEdit#include   #include   using namespace std;  int main() {      vector arr = {4, 9, 2, 10, 3};      int maxElement = arr[0];      for (int num : arr) {          if (num > maxElement)              maxElement = num;      }      cout << "The largest element is: " << maxElement << endl;      return 0;  }   `
+`   cppCopyEdit#include   #include   using namespace std;  int main() {      vector arr = {4, 9, 2, 10, 3};      int maxElement = arr[0];      for (int num : arr) {          if (num > maxElement)              maxElement = num;      }      cout << "The largest element is: " << maxElement << endl;      return 0;  }   `
 
 🧪 Sample: auutomateTest.py
 ---------------------------
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   pythonCopyEditimport subprocess  def run_test():      print("Running C++ program...")      subprocess.run(["g++", "Arrays/Basic/largestElement.cpp", "-o", "largest"])      subprocess.run(["./largest"])  if __name__ == "__main__":      run_test()   `
+`   pythonCopyEditimport subprocess  def run_test():      print("Running C++ program...")      subprocess.run(["g++", "Arrays/Basic/largestElement.cpp", "-o", "largest"])      subprocess.run(["./largest"])  if __name__ == "__main__":      run_test()   `
 
 🤝 Contributing
 ---------------
@@ -91,7 +91,7 @@ Want to contribute?
 
 Made with 💻 by **Jyotiraditya Gautam**
 
-*   💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+*   💼 [LinkedIn](https://www.linkedin.com/in/jyotiradityagautam/)
     
 *   🌐 Portfolio (Coming soon!)
     
