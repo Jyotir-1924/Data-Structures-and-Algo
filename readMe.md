@@ -155,13 +155,6 @@ Want to contribute?
 
 Made with 💻 by **Jyotiraditya Gautam**
 
--   💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+-   💼 [LinkedIn](https://www.linkedin.com/in/jyotiradityagautam/)
 
 -   🌐 Portfolio (Coming soon!)
-
-* * * * *
-
-📄 License
-----------
-
-This project is licensed under the **MIT License** --- feel free to use, fork, and improve!
