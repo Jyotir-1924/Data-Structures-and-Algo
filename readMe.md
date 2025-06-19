@@ -1,4 +1,4 @@
-🧠 DSA and HackerRank 🚀
+🧠 DS & Algo 🚀
 ========================
 
 Welcome to the **DSA and HackerRank** repository --- a curated collection of **Data Structures & Algorithms** solutions, **HackerRank** challenges, and automation scripts to speed up coding workflows.
